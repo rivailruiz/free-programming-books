@@ -114,7 +114,7 @@
 ### Elixir
 
 * [Curso de Elixir](https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY
-* [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
+* [Curso de Elixir Alquimia](https://www.youtube.com/watch?v=WRGvPgCHMfI&list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
 
 
 ### Flutter
